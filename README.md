@@ -1,7 +1,7 @@
 # Rust Tetris AI
 A Tetris environment and automated solver written in Rust. This project features a heuristic-based AI agent that uses Lookahead Search to optimize moves in real-time.
 
-<img src="assets/demo.gif" width="400" alt="Tetris AI Demo">
+<img src="assets/demo.gif" width="300" alt="Tetris AI Demo">
 
 ## Key Features
 Heuristic Solver: Evaluates board states using a weighted linear combination of features.
