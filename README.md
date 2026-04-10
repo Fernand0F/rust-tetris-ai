@@ -42,3 +42,5 @@ let agent = TetrisAgent {
     lookahead_depth: 1, // Number of future pieces to simulate
 };
 ```
+
+![IA Demo](assets/demo.gif)
